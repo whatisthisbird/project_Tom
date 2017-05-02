@@ -1,2 +1,2 @@
 # project_Tom
-Tom is Tom Cruise from the movice "Jerry Maguire"
+Tom is Tom Cruise from the movie "Jerry Maguire"
